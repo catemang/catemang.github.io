@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://catemang.github.io/sitemap.html.gz
+Sitemap: https://catemang.github.io/app/sitemap.html.gz
+Sitemap: https://catemang.github.io/assets/sitemap.html.gz
+Sitemap: https://catemang.github.io/css/sitemap.html.gz
+Sitemap: https://catemang.github.io/includes/sitemap.html.gz
+Sitemap: https://catemang.github.io/item/sitemap.html.gz
+Sitemap: https://catemang.github.io/src/sitemap.html.gz
